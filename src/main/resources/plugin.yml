@@ -1,0 +1,4 @@
+name: NickDich
+version: '${project.version}'
+main: de.seancedric.nickdich.NickDich
+api-version: '1.20'
